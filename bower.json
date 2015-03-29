@@ -1,0 +1,20 @@
+{
+  "name": "realCalendar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "rails-behaviors": "~0.8.0",
+    "bootstrap-calendar": "~0.2.4"
+  },
+  "resolutions": {
+    "bootstrap": "~3.0.0",
+    "moment": "~2.5.1"
+  }
+}
